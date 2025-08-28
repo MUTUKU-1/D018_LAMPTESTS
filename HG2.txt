@@ -1,0 +1,32 @@
+23/05/2025 16:04:33
+S2Q1
+
+Instrument Temperature - Start:   24.2
+
+ 81.1	 81.1	 81.4	 81.1	 81.1	
+ 88.4	 88.4	 88.5	 88.4	 88.5	
+ 84.75	 84.75	 84.95	 84.75	 84.80	
+
+Instrument Temperature - End:   24.2
+
+Test Mean:    84.80
+Table Value at Mean Temperature:    84.80
+Difference:     0.00
+
+
+25/08/2025 13:04:02
+S2Q1
+
+Instrument Temperature - Start:   22.5
+
+ 80.9	 81.1	 80.8	 80.8	 80.8	
+ 88.1	 88.1	 88.1	 87.8	 87.8	
+ 84.50	 84.60	 84.45	 84.30	 84.30	
+
+Instrument Temperature - End:   22.5
+
+Test Mean:    84.43
+Table Value at Mean Temperature:    84.80
+Difference:    -0.37
+
+

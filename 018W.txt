@@ -1,0 +1,16 @@
+23/05/2025 16:09:24
+Standard Lamp Name: 18W
+Instrument Temperature: 24.3
+	1	2	3	Mean	N-value	N-ref.	Delta N  Ref Rr
+Test A	60.9	61.0	61.0	61.0	13.24	13.00	-0.24     61.2
+Test C	62.3	62.3	62.2	62.3	17.25	17.10	-0.15     62.6
+Test D	63.1	63.1	63.1	63.1	19.21	18.80	-0.41     63.4
+
+25/08/2025 13:09:10
+Standard Lamp Name: 18W
+Instrument Temperature: 23.2
+	1	2	3	Mean	N-value	N-ref.	Delta N Ref Rr
+Test A	57.0	57.1	56.9	57.0	 9.08	13.00	 3.92    61.2
+Test C	58.5	58.5	58.3	58.4	13.14	17.10	 3.96    62.6
+Test D	59.0	59.0	59.0	59.0	14.73	18.80	 4.07    63.4
+

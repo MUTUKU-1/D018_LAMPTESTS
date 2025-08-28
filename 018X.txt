@@ -1,0 +1,16 @@
+25/04/2025 12:58:40
+Standard Lamp Name: 18X
+Instrument Temperature: 24.2
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	61.0	61.0	61.0	13.28	13.07	-0.21
+Test C	62.1	62.1	62.1	62.1	17.07	16.83	-0.24
+Test D	63.1	63.1	63.1	63.1	19.21	19.54	 0.33
+
+
+25/08/2025 13:18:23
+Standard Lamp Name: 18X
+Instrument Temperature: 23.5
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	57.2	56.8	57.0	57.0	 9.08	13.07	 3.99
+Test C	58.2	58.4	58.2	58.3	12.96	16.83	 3.87
+Test D	58.9	59.0	59.0	59.0	14.69	19.54	 4.85
